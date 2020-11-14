@@ -1,0 +1,6 @@
+Tesseract is an optical character recognition engine for various operating systems. 
+It is free software, released under the Apache License.
+Originally developed by Hewlett-Packard as proprietary software in the 1980s, it was released as open source in 2005 and development has been sponsored by Google since 2006
+
+The link for downloading the tesseract software is given below
+https://github.com/UB-Mannheim/tesseract/wiki
